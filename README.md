@@ -3,3 +3,7 @@
 ## Java:
 * base
 * EE
+
+## Инструменты
+* [Maven] (/tool/maven.md)
+* Git
