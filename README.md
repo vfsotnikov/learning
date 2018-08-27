@@ -5,5 +5,5 @@
 * EE
 
 ## Инструменты
-* [Maven] (/tool/maven.md)
+* [Maven] (./tool/maven.md)
 * Git
