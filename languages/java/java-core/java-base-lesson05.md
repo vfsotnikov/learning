@@ -7,6 +7,7 @@
 
 > В коммите содержится ошибка: в методе `AbstractArrayStorageTest.saveOverflow` цикл идет до `STORAGE_LIMIT + 1` включительно, а надо до `STORAGE_LIMIT`
 
+<a name="collections"></a>
 ## ![video](https://cloud.githubusercontent.com/assets/13649199/13672715/06dbc6ce-e6e7-11e5-81a9-04fbddb9e488.png) [Контейнеры/коллекции](https://drive.google.com/file/d/0B_4NpoQW1xfpc21aYXY4WW9CMHc)
 **Коммиты:**
  - [`Lesson05 Static initializer block and Collections`](https://github.com/JavaWebinar/basejava/tree/6def59a3c6e1a20804d9414f95240f2b973a6ba6)
@@ -25,6 +26,7 @@
 - Выделите общий класс `AbstractStorage` и реализуйте подклассы `ListStorage` и `MapStorage`. Для этого вам необходимо вынести в `AbstractStorage` максимум кода, исключив тем самым его дублирование
 - сделайте классы для тестирования `ListStorage` и `MapStorage`
 
+<a name="pattern_template"></a>
 Выбор реализации `List` и `Map` за вами
 - [Шаблонный метод (шаблон проектирования)](https://ru.wikipedia.org/wiki/Шаблонный_метод_(шаблон_проектирования))
 >  Поведенческий шаблон проектирования, определяющий основу алгоритма и позволяющий наследникам переопределять некоторые шаги алгоритма, не изменяя его структуру в целом
