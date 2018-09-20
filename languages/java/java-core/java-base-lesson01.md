@@ -3,7 +3,8 @@
 ## ![video](https://cloud.githubusercontent.com/assets/13649199/13672715/06dbc6ce-e6e7-11e5-81a9-04fbddb9e488.png) [Вебинар-презентация обучения на проекте BaseJava](https://drive.google.com/file/d/0B_4NpoQW1xfpNzdqT2hOcUJ6TGs)
 #### [Итоговый пример приложения, разрабатываемого в рамках данного курса (на примере резюме Григория Кислина)](https://javawebinar.github.io/)
 
-### Подготовка рабочего окружения
+<a name="environment"></a>
+### Подготовка рабочего окружения 
 - Установите [JDK8](http://www.oracle.com/technetwork/java/javase/downloads/jdk8-downloads-2133151.html) (выбрать Accept License Agreement)
 - Установите систему управления версиями [Git](http://git-scm.com/downloads) (опции по умолчанию)
 - Создайте аккаунт на [GitHub](https://github.com/)
@@ -11,6 +12,7 @@
 - Установите [IntelliJ IDEA](http://www.jetbrains.com/idea/download/index.html) (пока нет базы данных и веб, можно работать с версией Community)
 > Версия Ultimate является платным продуктом, рассчитанным на 30 дней пробного бесплатного использования. Для выполнения заданий в этой IDE каждый участник курса получает единоразовый ключ на 6 месяцев
 
+<a name="develop"></a>
 ## ![video](https://cloud.githubusercontent.com/assets/13649199/13672715/06dbc6ce-e6e7-11e5-81a9-04fbddb9e488.png) 1. [Разработка ПО](https://drive.google.com/open?id=0B_4NpoQW1xfpVjZUTEpvVUN1TTA)
 - [Мифический человеко-месяц](https://ru.wikipedia.org/wiki/Мифический_человеко-месяц) (wiki)
 - [Размеры проектов в количестве строк кода [eng]](https://medium.freecodecamp.com/the-biggest-codebases-in-history-a128bb3eea73)
@@ -18,6 +20,7 @@
 - [Методологии разработки ПО](https://dou.ua/forums/topic/14015/)
 - [Ещё раз про семь основных методологий разработки](https://habrahabr.ru/company/edison/blog/269789/)
 
+<a name="tool"></a>
 ## ![video](https://cloud.githubusercontent.com/assets/13649199/13672715/06dbc6ce-e6e7-11e5-81a9-04fbddb9e488.png) 2. [Обзор инструментов и технологий](https://drive.google.com/file/d/0B_4NpoQW1xfpTXJYU2xZbjN2d2M)
 - [Bash — шпаргалка для начинающих](https://tproger.ru/translations/bash-cheatsheet)
 - [Интерактивный курс по SQL](http://www.sql-ex.ru/)
@@ -27,6 +30,7 @@
 - **Дополнительно:**
    - [Автоматизированная сборка проекта в Java](http://spring-projects.ru/guides/maven/)
 
+<a name="java"></a>
 ## ![video](https://cloud.githubusercontent.com/assets/13649199/13672715/06dbc6ce-e6e7-11e5-81a9-04fbddb9e488.png) 3. [Обзор языка Java](https://drive.google.com/open?id=0B_4NpoQW1xfpTU5SSElhUjlGNnc)
 - [Java](http://ru.wikipedia.org/wiki/Java), [JVM](http://ru.wikipedia.org/wiki/Виртуальная_машина_Java), [JIT-компиляция](http://ru.wikipedia.org/wiki/JIT) (wiki)
 - [Что такое Java? История создания](http://www.intuit.ru/studies/courses/16/16/lecture/27105)
@@ -41,6 +45,7 @@
    - [Java version and vendor data analyzed 2017](https://plumbr.io/blog/java/java-version-and-vendor-data-analyzed-2017-edition)
    - [Most popular Java application servers: 2017 edition](https://plumbr.io/blog/java/most-popular-java-application-servers-2017-edition)
 
+<a name="git"></a>
 ## ![video](https://cloud.githubusercontent.com/assets/13649199/13672715/06dbc6ce-e6e7-11e5-81a9-04fbddb9e488.png) 4. [Системы управления версиями. Git](https://drive.google.com/file/d/0B9Ye2auQ_NsFSUNrdVc0bDZuX2s)
 
 ![image](https://cloud.githubusercontent.com/assets/18701152/15219746/9295a2fe-186d-11e6-876b-c61cc9be71e4.png)
