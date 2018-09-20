@@ -4,11 +4,11 @@
 
 [Назад](./index.md)
 
-1. ## [Подготовка рабочего окружения](java-base-lesson01.md)
-    * [Разработка ПО](java-base-lesson01.md)
-    * [Обзор инструментов и технологий](java-base-lesson01.md)
-    * [Обзор языка Java](java-base-lesson01.md)
-    * [Системы управления версиями. Git](java-base-lesson01.md)
+1. ## [Подготовка рабочего окружения](java-base-lesson01.md#environment)
+    * [Разработка ПО](java-base-lesson01.md#develop)
+    * [Обзор инструментов и технологий](java-base-lesson01.md#tool)
+    * [Обзор языка Java](java-base-lesson01.md#java)
+    * [Системы управления версиями. Git](java-base-lesson01.md#git)
     
 1. ## [](java-base-lesson02.md)
 1. ## [](./java-base-lesson03.md)
