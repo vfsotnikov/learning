@@ -1,5 +1,7 @@
 # Кинемотограф
+[Назад](../../README.md)
 
+<a name="cinema"></a>
 ## На подумать ##
 - [Андрей Тарковский](https://www.ivi.ru/person/andrey-tarkovskiy-2403)
 - [Бернардо Бертолуччи](https://www.ivi.ru/person/bernardo_bertoluchchi)
@@ -15,3 +17,5 @@
 - [Гай Ричи](https://www.ivi.ru/person/gaj_richi)
 - []()
 - []()
+
+[Назад](../../README.md)

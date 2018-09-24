@@ -2,7 +2,7 @@
 
 # Занятия курса
 
-[Назад](index.md)
+[Назад](../../README.md)
 
 1. ## [Подготовка рабочего окружения](java-base-lesson01.md#environment)
     - [Разработка ПО](java-base-lesson01.md#develop)
@@ -34,4 +34,4 @@
 1. ## [](java-base-lesson16.md)
 1. ## [](java-base-lesson17.md)
 	
-[Назад](index.md)
+[Назад](../../README.md)
