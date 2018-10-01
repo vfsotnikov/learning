@@ -1,6 +1,6 @@
 # Intellij Idea
 
-- [Intellij idea: wiki, отладчик, сочетания клавиш](../../languages/java/java-core/java-base-lesson01.md#idea)
+- [Intellij idea: wiki, отладчик, сочетания клавиш](../../programming/java/java-core/java-base-lesson01.md#idea)
 
 
 ## Plugins

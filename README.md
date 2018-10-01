@@ -2,9 +2,9 @@
 
 <a name="java"></a>
 ## Java:
-- [Core](/languages/java/java-core/index.md)
-- [Enterprise](/languages/java/java-ee/index.md)
-- [Паттерны проектирования](/languages/java/patterns/index.md)
+- [Core](/programming/java/java-core/index.md)
+- [Enterprise](/programming/java/java-ee/index.md)
+- [Паттерны проектирования](/programming/java/patterns/index.md)
 
 <a name="tool"></a>
 ## Инструменты
