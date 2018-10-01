@@ -11,6 +11,7 @@
 - [Maven](/tool/maven/index.md)
 - [Git](/tool/git/index.md)
 - [Jenkins](/tool/jenkins/index.md)
+- [Intellij Idea](/tool/idea/index.md)
 
 <a name="hobbi"></a>
 ## Хобби

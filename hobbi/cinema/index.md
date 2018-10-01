@@ -10,7 +10,7 @@
 - [Федерико Феллини](https://www.ivi.ru/person/federico-fellini)
 - [Дэвид Линч](https://www.ivi.ru/person/devid_linch)
 - [Александр Сокуров](https://www.ivi.ru/person/aleksandr-sokurov)
-##Добавить в избранное ivi##
+- ##Добавить в избранное ivi##
 - [Джоэл Коэн](https://www.ivi.ru/person/dzhoel_koen)
 - [Итан Коэн](https://www.ivi.ru/person/itan_koen)
 - [Квентин Тарантино](https://www.ivi.ru/person/quentin-tarantino)

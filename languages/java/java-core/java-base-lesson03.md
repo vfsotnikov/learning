@@ -15,11 +15,16 @@
  - [`Lesson03 implements interface`](https://github.com/JavaWebinar/basejava/tree/ba20418d59dcc998c2cab218d84ca1f7099676c8/src/ru/javawebinar/basejava/storage)
 
 **Ресурсы:**
+<a name="static"></a>
 - [Модификатор static](http://www.intuit.ru/studies/courses/16/16/lecture/27119)
 - [10 заметок о модификаторе static в Java](http://info.javarush.ru/translation/2014/04/15/10-заметок-о-модификаторе-Static-в-Java.html)
+<a name="object"></a>
 - [Класс Object. Контракт equals/hashCode](http://www.intuit.ru/studies/courses/16/16/lecture/27129?page=1)
+<a name="abstract"></a>
 - [Абстрактные классы](https://www.youtube.com/watch?v=ZjiFL2Yo2fw) (youtube)
+<a name="interface"></a>
 - [Интерфейсы](http://www.intuit.ru/studies/courses/16/16/lecture/27119?page=3)
+<a name="polymorphizm"></a>
 - [Полиморфизм](http://www.intuit.ru/studies/courses/16/16/lecture/27119?page=4)
 - [Отличия абстрактного класса от интерфейса](https://ru.stackoverflow.com/questions/235352/Отличия-абстрактного-класса-от-интерфейса-abstract-class-and-interface)
 - **Дополнительно:**
@@ -28,6 +33,7 @@
     - [Интерфейсы, абстрактные классы, полиморфизм](https://www.youtube.com/watch?v=7NMFk2oj1-c&index=4&list=PLkKunJj_bZefB1_hhS68092rbF4HFtKjW) (youtube)
     - [Разбираемся с hashCode() и equals()](https://habrahabr.ru/post/168195/)
 
+<a name="algorithm"></a>
 ## ![video](https://cloud.githubusercontent.com/assets/13649199/13672715/06dbc6ce-e6e7-11e5-81a9-04fbddb9e488.png) 2. [Сложность алгоритмов](https://drive.google.com/open?id=0B_4NpoQW1xfpQldyRk5oc3Z1S00)
 - [Временная сложность алгоритма](https://ru.wikipedia.org/wiki/Временная_сложность_алгоритма) (wiki)
 - [Вычислительная сложность](https://ru.wikipedia.org/wiki/Вычислительная_сложность) (wiki)
@@ -42,6 +48,7 @@
 **Коммиты:**
  - [`Lesson03 abstract storage & sorted storage`](https://github.com/JavaWebinar/basejava/tree/0bf48cf81987ddb9d59880f10920f3994923f8c0/src/ru/javawebinar/basejava)
  
+<a name="template_method"
 **Ресурсы:**
  - [Паттерн проектирования — Шаблонный метод](https://ru.wikipedia.org/wiki/Шаблонный_метод_(шаблон_проектирования)) (wiki)
  - [Шаблонный метод (Template Method)](https://youtu.be/mNcmp-Msi6U) (youtube)
