@@ -1,10 +1,12 @@
 # Копилочка материалов для обучения
 
 <a name="java"></a>
-## Java:
+## Программирование
+### Java:
 - [Core](/programming/java/java-core/index.md)
 - [Enterprise](/programming/java/java-ee/index.md)
 - [Паттерны проектирования](/programming/java/patterns/index.md)
+- [Тестирование](/programming/tests/index.md)
 
 <a name="tool"></a>
 ## Инструменты
