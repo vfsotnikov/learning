@@ -12,11 +12,11 @@
 - []()
 
 ## Почему Docker
-    - [Docker. Зачем и как](https://habr.com/post/309556/) 
-    - [Поняв Docker](https://habr.com/post/277699/)
-    - [Как жить с Docker, или почему лучше с ним, чем без него?](https://habr.com/post/250469/) 
-    - **Проблемы и их решение:** [Docker в продакшене — чему мы научились, запустив более 300 миллионов контейнеров](https://habr.com/post/247969/) 
-    - [Понимая Docker](https://habr.com/post/253877/)
+- [Docker. Зачем и как](https://habr.com/post/309556/) 
+- [Поняв Docker](https://habr.com/post/277699/)
+- [Как жить с Docker, или почему лучше с ним, чем без него?](https://habr.com/post/250469/) 
+- **Проблемы и их решение:** [Docker в продакшене — чему мы научились, запустив более 300 миллионов контейнеров](https://habr.com/post/247969/) 
+- [Понимая Docker](https://habr.com/post/253877/)
 
 ## Практическое руководство:
 - [Инструкция по установке (Eng)](https://docs.docker.com/get-started/)
