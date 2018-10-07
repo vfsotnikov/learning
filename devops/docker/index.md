@@ -2,6 +2,8 @@
 
 [Назад](../../README.md)
 
+**Книги:** [Использование Docker](https://www.goodreads.com/book/show/36480186-docker) 
+
 - [www.docker.com](https://www.docker.com)
 - [Docker Dokumentation](https://docs.docker.com/engine/docker-overview/) (в переводе [Понимая Docker](https://habr.com/post/253877/))
 - [Docker Registry](https://github.com/docker/docker-registry)

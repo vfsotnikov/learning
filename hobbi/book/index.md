@@ -1,7 +1,8 @@
 # Литература
 [Назад](../../README.md)
 
-<a name="book"></a>
+<a name="classic"></a>
+## Художественная
 - [Антон Чехов](https://www.litres.ru/anton-chehov/)
 - [Лев Толстой](https://www.litres.ru/lev-tolstoy/)
 - [Иван Бунин](https://www.litres.ru/ivan-bunin/)
@@ -16,6 +17,18 @@
 - [Джеймс Джойс](https://www.litres.ru/dzheyms-dzhoys/)
 - [Кадзуо Исигуро](https://www.litres.ru/kadzuo-isiguro/)
 - [Виктор Пелевин](https://www.litres.ru/viktor-pelevin/)
+- []()
+- []()
+
+<a name="technical"></a>
+## Техническая
+**Профессия программист**
+- [Роберт Мартин. Идеальный программист. Как стать профессионалом разработки ПО](https://www.goodreads.com/book/show/28690116)
+- []()
+**DevOps**
+- [Continuous delivery. Практика непрерывных апдейтов](https://www.goodreads.com/book/show/36185317-continuous-delivery) 
+- [Философия DevOps. Искусство управления IT](https://www.goodreads.com/book/show/41134331-devops-it)
+- [Использование Docker](https://www.goodreads.com/book/show/36480186-docker)
 - []()
 - []()
 
