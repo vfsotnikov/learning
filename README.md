@@ -13,6 +13,7 @@
 **Книги про DevOps:** [Continuous delivery. Практика непрерывных апдейтов](https://www.goodreads.com/book/show/36185317-continuous-delivery), 
 [Философия DevOps. Искусство управления IT](https://www.goodreads.com/book/show/41134331-devops-it)
 - [Maven](/devops/maven/index.md)
+- [Gradle](/devops/gradle/index.md)
 - [Git](/devops/git/index.md)
 - [Jenkins](/devops/jenkins/index.md)
 - [Intellij Idea](/devops/idea/index.md)
@@ -27,3 +28,6 @@
 - [Музыка](/hobbi/musik/index.md)
 - [Живопись](/hobbi/art/index.md)
 - [Теат](/hobbi/theatre/index.md)
+
+## MarkDown
+- [GH: Mastering Markdown](https://guides.github.com/features/mastering-markdown/)
