@@ -7,7 +7,8 @@
 - [Enterprise](/programming/java/java-ee/index.md)
 - [Паттерны проектирования](/programming/java/patterns/index.md)
 - [Тестирование](/programming/tests/index.md)
-
+### WEB
+- [HTML](/programming/web/html/index.md)
 <a name="tool"></a>
 ## Инструменты DevOps
 **Книги про DevOps:** [Continuous delivery. Практика непрерывных апдейтов](https://www.goodreads.com/book/show/36185317-continuous-delivery), 
