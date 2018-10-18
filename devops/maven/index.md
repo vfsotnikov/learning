@@ -3,12 +3,25 @@
 [Назад](../../README.md)
 
 **Свое руководство**
-- ["Минимальный pom.xml"](min-pom-xml.md)
+- [Введение](introduction.md)
+- [Файл POM](pom-file.md)
+- [Жизненный цикл сборки проектов](build-life-cycle.md)
+- [Профили сборки](build-profile.md)
+- [Репозитории](repositories.md)
+- [Плагины](plugins.md)
+- [Создание проекта](project-creation.md)
+- [Сборка и тестирование проекта](build-and-test-project.md)
+- [Внешние зависимости](external-dependencies.md)
+- [Документирование проекта](project-documents.md)
+- [Шаблоны проектов](project-templates.md)
+- [Snapshot-ы](snapshots.md)
+- [Автоматизация сборки](build-automation.md)
+- [Автоматизация развёртывания (deployment)](deployment-automation.md)
+- [Веб-проект с использованием Maven](web-project.md)
 - []()
-- []()
-
 
 **Навести порядок**
+- ["Минимальный pom.xml"](min-pom-xml.md)
 - [Поиск / Хабрахабр](https://habrahabr.ru/search/?target_type=posts&q=[maven]&order_by=date)
 - [Apache Maven — основы / Хабрахабр](https://habrahabr.ru/post/77382/)
 - [Как собрать простейшую Java программу с помощью Maven / Хабрахабр](https://habrahabr.ru/post/309222/)
