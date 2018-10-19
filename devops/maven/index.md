@@ -25,6 +25,9 @@
 - [Автоматизация сборки](build-automation.md)
 - [Автоматизация развёртывания (deployment)](deployment-automation.md)
 - [Веб-проект с использованием Maven](web-project.md)
+- **Дополнительно**
+    - [Исключение транзитивных зависимостей](exclusion-dependencies.md)
+    - [Подключение корпоративных репозиториев](settings-xml.md)
 - []()
 
 
