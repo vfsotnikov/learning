@@ -2,11 +2,13 @@
 
 <a name="java"></a>
 ## Программирование
+- [Ссылки на ресурсы]()
 ### Java:
 - [Core](/programming/java/java-core/index.md)
 - [Enterprise](/programming/java/java-ee/index.md)
 - [Паттерны проектирования](/programming/java/patterns/index.md)
 - [Тестирование](/programming/tests/index.md)
+
 ### WEB
 - [HTML](/programming/web/html/index.md)
 <a name="tool"></a>
