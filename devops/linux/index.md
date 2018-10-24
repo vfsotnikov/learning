@@ -1,7 +1,8 @@
 # Linux
 
 **Собственное руководство**
-- [Unix и Linux. Руководство системного администратора](contents.md)
+- [Unix и Linux. Руководство системного администратора](tutorial/contents.md)
+- [Linux. Справочник](guide/contents.md)
 
 **Книги:**
 - []()
