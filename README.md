@@ -15,6 +15,7 @@
 ## Инструменты DevOps
 **Книги про DevOps:** [Continuous delivery. Практика непрерывных апдейтов](https://www.goodreads.com/book/show/36185317-continuous-delivery), 
 [Философия DevOps. Искусство управления IT](https://www.goodreads.com/book/show/41134331-devops-it)
+- [Linux](/devops/linux/index.md)
 - [Maven](/devops/maven/index.md)
 - [Gradle](/devops/gradle/index.md)
 - [Git](/devops/git/index.md)
